@@ -1,0 +1,20 @@
+* Book API
+  + Metadata
+    - Goodreads
+    - Googlebooks
+    - Audible?
+  + Covert Art 
+    - Google Image Search?
+
+
+Versioned APIs?
+
+https://itnext.io/structuring-a-production-grade-rest-api-in-golang-c0229b3feedc
+
+* Dependencies
+  + Echo - API/Web
+  + go-sqlite3
+  + migrate
+
+
+
