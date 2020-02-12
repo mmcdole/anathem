@@ -13,3 +13,8 @@ Package | Description
 `importer` | Book Importers
 `metadata` | Metadata Providers
 `web` | Web front-end 
+
+#### Dependencies:
+
+* echo
+* go-sqlite3
