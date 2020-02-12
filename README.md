@@ -6,9 +6,10 @@
 
 Package | Description
 --- | ---
-`api` | REST API handlers for Anathem
-`cmd` | CLI utility for interacting with a local instance of Anathem
+`api` | REST API for Anathem 
+`cmd` | CLI utility for interacting with Anathem
+`config` | Settings for Anathem
 `database` | Datastore for Anathem
 `importer` | Import books into Anathem
-`metadata` | Match or Search for books from these metadata providers
+`metadata` | Metadata providers for books
 `web` | Web front-end for Anathem
