@@ -1,6 +1,6 @@
 # Anathem
 
-The `anathem` application is a digital library for your ebooks and audiobooks.
+`Anathem` is a self-hosted digital library for your ebooks and audiobooks.
 
 #### Packages:
 
